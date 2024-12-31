@@ -32,7 +32,8 @@ body {
     font-weight: 600;
     color: var(--primary-color);
 }
-.container .title  h5 {
+.container .title  p {
+    font-size: 14px;
     margin: 8px 0 20px;
     color: var(--secondary-color);
 }
